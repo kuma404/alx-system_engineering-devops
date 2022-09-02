@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod '__x __x r__' hello
+chmod ug+x,o+r hello
